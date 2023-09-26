@@ -1,0 +1,62 @@
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\appsettings.json
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\MyWebApp.staticwebassets.runtime.json
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\MyWebApp.exe
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\MyWebApp.deps.json
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\MyWebApp.runtimeconfig.json
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\MyWebApp.dll
+C:\Users\jimali\MyWebApp\bin\Debug\net7.0\MyWebApp.pdb
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.csproj.AssemblyReference.cache
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfo.cs
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cache
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cs
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApp.props
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApp.props
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApp.props
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\scopedcss\bundle\MyWebApp.styles.css
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.dll
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\refint\MyWebApp.dll
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.pdb
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
+C:\Users\jimali\MyWebApp\obj\Debug\net7.0\ref\MyWebApp.dll
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\appsettings.Development.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\appsettings.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\MyWebApp.staticwebassets.runtime.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\MyWebApp.exe
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\MyWebApp.deps.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\MyWebApp.runtimeconfig.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\MyWebApp.dll
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\bin\Debug\net7.0\MyWebApp.pdb
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.csproj.AssemblyReference.cache
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.AssemblyInfo.cs
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cache
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.RazorAssemblyInfo.cs
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApp.props
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApp.props
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApp.props
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\staticwebassets.build.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\staticwebassets.development.json
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\scopedcss\bundle\MyWebApp.styles.css
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.dll
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\refint\MyWebApp.dll
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.pdb
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
+C:\Docker Application build repo\DotNet-Core-App-Using-Docker\obj\Debug\net7.0\ref\MyWebApp.dll
